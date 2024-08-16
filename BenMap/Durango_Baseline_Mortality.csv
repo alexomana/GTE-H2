@@ -1,0 +1,96 @@
+Endpoint Group,Endpoint,Race,Ethnicity,Type,Gender,Start Age,End Age,Column,Row,Value
+Mortality,"Mortality, All Cause",,,Incidence,,0,1,1,1,0.011872271
+Mortality,"Mortality, All Cause",,,Incidence,,1,4,1,1,0.000410734
+Mortality,"Mortality, All Cause",,,Incidence,,5,9,1,1,0.000154477
+Mortality,"Mortality, All Cause",,,Incidence,,10,14,1,1,0.000211484
+Mortality,"Mortality, All Cause",,,Incidence,,15,19,1,1,0.000587237
+Mortality,"Mortality, All Cause",,,Incidence,,20,24,1,1,0.001005192
+Mortality,"Mortality, All Cause",,,Incidence,,25,29,1,1,0.001227074
+Mortality,"Mortality, All Cause",,,Incidence,,30,34,1,1,0.001382329
+Mortality,"Mortality, All Cause",,,Incidence,,35,39,1,1,0.001739217
+Mortality,"Mortality, All Cause",,,Incidence,,40,44,1,1,0.00239461
+Mortality,"Mortality, All Cause",,,Incidence,,45,49,1,1,0.003169812
+Mortality,"Mortality, All Cause",,,Incidence,,50,54,1,1,0.00479637
+Mortality,"Mortality, All Cause",,,Incidence,,55,59,1,1,0.007137813
+Mortality,"Mortality, All Cause",,,Incidence,,60,64,1,1,0.010384098
+Mortality,"Mortality, All Cause",,,Incidence,,65,69,1,1,0.016396392
+Mortality,"Mortality, All Cause",,,Incidence,,70,74,1,1,0.023744316
+Mortality,"Mortality, All Cause",,,Incidence,,75,79,1,1,0.037742315
+Mortality,"Mortality, All Cause",,,Incidence,,80,84,1,1,0.065330986
+Mortality,"Mortality, All Cause",,,Incidence,,85,99,1,1,0.116724661
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,0,1,1,1,8.37E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,1,4,1,1,2.17E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,5,9,1,1,1.12E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,10,14,1,1,1.40E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,15,19,1,1,2.16E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,20,24,1,1,2.67E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,25,29,1,1,8.69E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,30,34,1,1,5.26E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,35,39,1,1,7.74E-05
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,40,44,1,1,0.000124982
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,45,49,1,1,0.000187883
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,50,54,1,1,0.000290783
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,55,59,1,1,0.000460616
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,60,64,1,1,0.000745072
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,65,69,1,1,0.001311016
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,70,74,1,1,0.002210154
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,75,79,1,1,0.004109121
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,80,84,1,1,0.007996581
+Mortality,"Mortality, Cerebrovascular Disease",,,Incidence,,85,99,1,1,0.014197974
+Mortality,"Mortality, COPD",,,Incidence,,0,1,1,1,0.00E+00
+Mortality,"Mortality, COPD",,,Incidence,,1,4,1,1,2.16E-06
+Mortality,"Mortality, COPD",,,Incidence,,5,9,1,1,5.94E-07
+Mortality,"Mortality, COPD",,,Incidence,,10,14,1,1,6.23E-07
+Mortality,"Mortality, COPD",,,Incidence,,15,19,1,1,1.01E-06
+Mortality,"Mortality, COPD",,,Incidence,,20,24,1,1,1.52E-06
+Mortality,"Mortality, COPD",,,Incidence,,25,29,1,1,2.16E-06
+Mortality,"Mortality, COPD",,,Incidence,,30,34,1,1,3.21E-06
+Mortality,"Mortality, COPD",,,Incidence,,35,39,1,1,4.12E-04
+Mortality,"Mortality, COPD",,,Incidence,,40,44,1,1,1.20E-05
+Mortality,"Mortality, COPD",,,Incidence,,45,49,1,1,2.39E-05
+Mortality,"Mortality, COPD",,,Incidence,,50,54,1,1,5.60E-05
+Mortality,"Mortality, COPD",,,Incidence,,55,59,1,1,0.000120802
+Mortality,"Mortality, COPD",,,Incidence,,60,64,1,1,0.000263621
+Mortality,"Mortality, COPD",,,Incidence,,65,69,1,1,0.000561924
+Mortality,"Mortality, COPD",,,Incidence,,70,74,1,1,0.001194183
+Mortality,"Mortality, COPD",,,Incidence,,75,79,1,1,0.002575831
+Mortality,"Mortality, COPD",,,Incidence,,80,84,1,1,0.005514922
+Mortality,"Mortality, COPD",,,Incidence,,85,99,1,1,0.012011617
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,0,1,1,1,0
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,1,4,1,1,0.00E+00
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,5,9,1,1,9.20E-08
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,10,14,1,1,3.45E-07
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,15,19,1,1,1.18E-05
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,20,24,1,1,2.54E-05
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,25,29,1,1,4.78E-05
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,30,34,1,1,8.02E-05
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,35,39,1,1,0.00013243
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,40,44,1,1,0.000235178
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,45,49,1,1,0.000366641
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,50,54,1,1,0.000641322
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,55,59,1,1,0.001078489
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,60,64,1,1,0.001660314
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,65,69,1,1,0.002930981
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,70,74,1,1,0.004683407
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,75,79,1,1,0.008286469
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,80,84,1,1,0.016538302
+Mortality,"Mortality, Ischemic Heart Disease",,,Incidence,,85,99,1,1,0.039675547
+Mortality,"Mortality, Lung Cancer",,,Incidence,,0,1,1,1,0.00E+00
+Mortality,"Mortality, Lung Cancer",,,Incidence,,1,4,1,1,0.00E+00
+Mortality,"Mortality, Lung Cancer",,,Incidence,,5,9,1,1,2.13E-07
+Mortality,"Mortality, Lung Cancer",,,Incidence,,10,14,1,1,2.81E-07
+Mortality,"Mortality, Lung Cancer",,,Incidence,,15,19,1,1,4.71E-07
+Mortality,"Mortality, Lung Cancer",,,Incidence,,20,24,1,1,1.31E-06
+Mortality,"Mortality, Lung Cancer",,,Incidence,,25,29,1,1,2.63E-06
+Mortality,"Mortality, Lung Cancer",,,Incidence,,30,34,1,1,5.11E-06
+Mortality,"Mortality, Lung Cancer",,,Incidence,,35,39,1,1,8.30E-06
+Mortality,"Mortality, Lung Cancer",,,Incidence,,40,44,1,1,1.72E-05
+Mortality,"Mortality, Lung Cancer",,,Incidence,,45,49,1,1,2.80E-05
+Mortality,"Mortality, Lung Cancer",,,Incidence,,50,54,1,1,5.36E-05
+Mortality,"Mortality, Lung Cancer",,,Incidence,,55,59,1,1,1.02E-04
+Mortality,"Mortality, Lung Cancer",,,Incidence,,60,64,1,1,0.000188011
+Mortality,"Mortality, Lung Cancer",,,Incidence,,65,69,1,1,0.000316149
+Mortality,"Mortality, Lung Cancer",,,Incidence,,70,74,1,1,0.000483439
+Mortality,"Mortality, Lung Cancer",,,Incidence,,75,79,1,1,0.000681553
+Mortality,"Mortality, Lung Cancer",,,Incidence,,80,84,1,1,0.000902401
+Mortality,"Mortality, Lung Cancer",,,Incidence,,85,99,1,1,0.000750777

@@ -1,0 +1,4 @@
+Monitor Name,Monitor Description,Latitude,Longitude,Metric,Seasonal Metric,Statistic,Values
+"IPN											",Instituto Politecnico Nacional,24.05111111,-104.6102778,D24HourMean,QuarterlyMean,Mean,17.62
+"SRNyMA											",Secretaria de Medio Ambiente,24.02677778,-104.6927778,D24HourMean,QuarterlyMean,Mean,25.71
+SAGARPA,Secretar’a de Agricultura,25.539144,103.523197,D24HourMean,QuarterlyMean,Mean,36.2
